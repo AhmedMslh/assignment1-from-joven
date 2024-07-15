@@ -1,0 +1,82 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    padding: 8px;
+    margin: 0;
+}
+#logo{
+    height: 40px;
+    width: 60px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color :darkblue;
+}
+#panner{
+    width: 100%;
+    object-fit: cover;
+}
+#abuot{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+}
+#discreption{
+    width: 50%;
+    padding-right: 8px;
+}
+#team{
+    width: 50%;
+    padding: 9px;
+}
+#team-imag{
+    border-radius: 6px;
+    width: 100%;
+}
+.location{
+    color:gray;
+    margin-bottom: 16px;
+}
+h2{
+    text-align:center;
+}
+#job{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+}
+h3{
+    margin-bottom: 8px;
+    margin-top: 0;
+}
+
+#job div .apply{
+    float: right;
+}
+#footer{
+    background-color: bisque;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+.footer-links{
+    list-style: none;
+   
+}
+.footer-links li{
+    display: inline;
+    margin:  0 16px;
+    
+}
+.copy{
+    color: gray;
+}
